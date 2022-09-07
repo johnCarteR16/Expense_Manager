@@ -10,6 +10,7 @@ public class ExpenseManagerApplication {
         System.out.println("Hello World");
         SpringApplication.run(ExpenseManagerApplication.class, args);
         System.out.println("Hello World");
+
     }
 
 }
